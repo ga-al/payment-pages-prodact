@@ -6,6 +6,8 @@
 
 Демо для портфолио — без реальных платежей и без привязки к боевому сервису.
 
+**Демо:** [ga-al.github.io/payment-pages-prodact](https://ga-al.github.io/payment-pages-prodact/)
+
 ## Технологии
 
 - HTML5
