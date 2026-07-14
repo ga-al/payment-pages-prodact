@@ -26,11 +26,11 @@ npx serve .
 │   ├── master-card.html
 │   ├── perfect-money.html
 │   ├── money-go.html
-│   └── scrill.html
+│   └── skrill.html
 ├── js/script.js               # выбор метода и шаги депозита
 ├── .nojekyll                  # нужен для GitHub Pages
 └── static/assets/
-    ├── css/                   # main.css + my-main.css
+    ├── css/                   # main.css + layout.css
     └── img/
 ```
 

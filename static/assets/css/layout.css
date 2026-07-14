@@ -45,7 +45,7 @@ a:hover {
     min-height: 100vh;
 }
 
-.payment-sistems__left {
+.payment-systems__left {
     flex: 1 0 40%;
     padding: 1.5rem 1rem 3rem;
     background-color: #e9ecf0;
@@ -60,7 +60,7 @@ a:hover {
     opacity: .5;
 }
 
-.payment-sistems__right {
+.payment-systems__right {
     flex: 1 0 60%;
     padding: 1.5rem 2rem 3rem;
     background-color: white;
@@ -417,11 +417,11 @@ a:hover {
     .container {
         padding: 0 15px!important;
     }
-    .payment-sistems__right {
+    .payment-systems__right {
         padding-left: 0;
         padding-right: 0;
     }
-    .payment-sistems__left {
+    .payment-systems__left {
         margin-top: 2rem;
     }
     .payments {
